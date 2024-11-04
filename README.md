@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C, javascript, laravel, phyton, html and CSS.**
 
-- 📫 How to reach me **Just contact through my discord**
+- 📫 How to reach me **Just contact through my discord (_xzens)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
