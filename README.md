@@ -1,4 +1,4 @@
-[![MasterHead](https://s7.ezgif.com/tmp/ezgif-7-6fc44d110b.gif)](https://discord.gg/vpKPDNF)
+[![MasterHead](https://i.imgur.com/lE4ghaj.gif)](https://discord.gg/vpKPDNF)
 <h1 align="center">Hi, I'm Muhammad Ikhsan Nur Rafid</h1>
 <h3 align="center">A future programmer from Indonesia, currently studying in Binus University and majoring Computer Science</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/ba/23/f9ba232d6b18c80b3a95c1ec8dc1c796.gif">
