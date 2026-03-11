@@ -8,7 +8,7 @@
 
 <p align="left"> <a href="https://twitter.com/_xzens" target="blank"><img src="https://img.shields.io/twitter/follow/_xzens?logo=twitter&style=for-the-badge" alt="_xzens" /></a> </p>
 
-- 🌱 I’m currently learning **C, javascript, laravel, phyton, html and CSS.**
+- 🌱 I’m currently learning **Go, Javascript, Laravel, Pyton, Html and CSS.**  Oh. also currently i've been trying to learn about web exploitation again. Feel free to check my report on my Notion: https://www.notion.so/Pentesting-Documentation-31c641e0da948027aecfe1ed643e4209
 
 - 📫 How to reach me **Just contact through my discord (_xzens) or my email (muhammad.rafid001@binus.ac.id)**
 
