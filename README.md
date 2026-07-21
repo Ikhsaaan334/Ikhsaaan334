@@ -1,30 +1,63 @@
-[![MasterHead](https://i.imgur.com/lE4ghaj.gif)](https://discord.gg/vpKPDNF)
-<h1 align="center">Hi, I'm Muhammad Ikhsan Nur Rafid</h1>
-<h3 align="center">A future programmer from Indonesia, currently studying in Binus University and majoring Computer Science</h3>
-<img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/f9/ba/23/f9ba232d6b18c80b3a95c1ec8dc1c796.gif">
+<h1 align="center">Muhammad Ikhsan Nur Rafid</h1>
+<h3 align="center">Mostly vibe code</h3>
 
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ikhsaaan334&label=Profile%20views&color=0e75b6&style=flat" alt="Ikhsaaan334" /> </p>
-
-<p align="left"> <a href="https://twitter.com/_xzens" target="blank"><img src="https://img.shields.io/twitter/follow/_xzens?logo=twitter&style=for-the-badge" alt="_xzens" /></a> </p>
-
-- 🌱 I’m currently learning **Go, Javascript, Laravel, Pyton, Html and CSS.**  Oh. also currently i've been trying to learn about web exploitation again. Feel free to check my report on my Notion: https://www.notion.so/Pentesting-Documentation-31c641e0da948027aecfe1ed643e4209
-
-- 📫 How to reach me **Just contact through my discord (_xzens) or my email (muhammad.rafid001@binus.ac.id)**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/_xzens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_xzens" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/muhammad-ikhsan-nur-rafid-4b33aa326/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Muhammad Ikhsan Nur Rafid" height="30" width="40" /></a>
-<a href="https://instagram.com/rapit.zn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="rapit.zn" height="30" width="40" /></a>
-<a href="https://discord.gg/_xzens" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="_xzens" height="30" width="40" /></a>
+<p align="center">
+  Bridging the gap between software engineering and offensive security. I build robust web applications and actively explore vulnerabilities to understand how to secure them better. 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="mailto:muhammad.rafid001@binus.ac.id"><img src="https://img.shields.io/badge/Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://discordapp.com/users/_xzens"><img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white" alt="Discord" /></a>
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ikhsaaan334&show_icons=true&locale=en&layout=compact" alt="ikhsaaan334" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ikhsaaan334&show_icons=true&locale=en" alt="Ikhsaaan334" /></p>
+## 👨‍💻 About Me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ikhsaaan334&" alt="ikhsaaan334" /></p>
+* 🎓 Currently in my fourth semester studying **Computer Science** at BINUS University.
+* 💻 Experienced in building web platforms using **Laravel, React (Inertia.js), and Tailwind CSS**.
+* 🔐 Passionate about cybersecurity, specifically focusing on **Penetration Testing, OSINT, and Bug Bounty Hunting**.
+* 🌱 Currently expanding my backend architecture toolkit by learning **Go**.
+
+---
+
+## 🛠️ Technical Arsenal
+
+### Development
+<p>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white" alt="Tailwind" />
+  <img src="https://img.shields.io/badge/Python-3670A0?style=flat-square&logo=python&logoColor=ffdd54" alt="Python" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+</p>
+
+### Offensive Security & Research
+<p>
+  <img src="https://img.shields.io/badge/Burp_Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white" alt="BurpSuite" />
+  <img src="https://img.shields.io/badge/Ghidra-000000?style=flat-square&logo=reverbnation&logoColor=white" alt="Ghidra" />
+  <img src="https://img.shields.io/badge/Tools-ffuf_%7C_nuclei_%7C_sqlmap_%7C_Xray-333333?style=flat-square" alt="Security Tools" />
+</p>
+
+---
+
+## 🚀 Featured Projects
+
+| Project | Description | Technology / Domain |
+| :--- | :--- | :--- |
+| **[Security Research WriteUp](https://github.com/Ikhsaaan334/Security-Research-WriteUp-March2026)** | Documentation of my recent security audits and vulnerability findings. | Penetration Testing |
+| **[Deepfake Detector](https://github.com/Ikhsaaan334/Deepfake-Detector)** | A web application utilizing models (YOLOv8/SSD) to identify video manipulations. | Python, AI, Web |
+| **[Sensei Desk](https://github.com/Ikhsaaan334/sensei-desk)** | A fully custom personal blogging platform with Blue Archive theme. | Web Development |
+| **[Psychology Apps](https://github.com/Syechran/Psychology-Apps/)** | A dedicated platform for psychological tools and user assessments. | Mobile Development, Flutter |
+| **[ASL Translator Model](https://github.com/Ikhsaaan334/ASL-Alphabet-Translator-Model)** | A computer vision model designed to translate the American Sign Language alphabet. | Machine Learning/Deep Learning |
+| **[Lux AI Discord Bot](https://github.com/Ikhsaaan334/lux-ai-discord-bot)** | A discord bot for users to ask something like Gemini. | Discord Bot |
+
+---
+
+## 📊 GitHub Analytics
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ikhsaaan334&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" width="48%" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikhsaaan334&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" width="48%" alt="Top Languages" />
+</div>
