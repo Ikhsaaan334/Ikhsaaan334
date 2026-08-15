@@ -66,11 +66,9 @@ I am an Informatics/Computer Science student exploring the depths of **Cyber Sec
 ### 📈 GitHub Analytics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ikhsaaan334&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=F7768E" alt="Zen's GitHub Stats" width="49%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ikhsaaan334&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="49%" />
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Ikhsaaan334&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=Ikhsaaan334&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=dracula)
+  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ikhsaaan334&layout=compact&langs_count=6&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=Ikhsaaan334&layout=compact&langs_count=6&theme=dracula)
   <br><br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ikhsaaan334&theme=tokyonight&hide_border=true&background=0D1117&ring=F7768E&fire=F7768E&currStreakLabel=F7768E" alt="GitHub Streak" width="100%" />
-</div>
 
 <br>
 <div align="center">
