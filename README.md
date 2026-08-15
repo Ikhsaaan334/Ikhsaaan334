@@ -66,9 +66,9 @@ I am an Informatics/Computer Science student exploring the depths of **Cyber Sec
 ### 📈 GitHub Analytics
 
 <div align="center">
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api?username=Ikhsaaan334&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=dracula)](https://github-stats-extended.vercel.app/api?username=Ikhsaaan334&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=dracula)
-  [![GitHub Stats](https://github-stats-extended.vercel.app/api/top-langs?username=Ikhsaaan334&layout=compact&langs_count=6&theme=dracula)](https://github-stats-extended.vercel.app/api/top-langs?username=Ikhsaaan334&layout=compact&langs_count=6&theme=dracula)
-  <br><br>
+  <img src="https://github-stats-extended.vercel.app/api?username=Ikhsaaan334&rank_icon=github&custom_title=My%20Stats&show_icons=true&include_all_commits=true&theme=dracula" alt="GitHub Stats" width="49%" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs?username=Ikhsaaan334&layout=compact&langs_count=6&theme=dracula" alt="Top Languages" width="49%" />
+</div>
 
 <br>
 <div align="center">
