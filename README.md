@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media1.tenor.com/m/h9b2vK7HExYAAAAd/blue-archive-hoshino.gif" alt="Takanashi Hoshino Banner" width="100%" style="border-radius: 15px;"/>
+  <img src="https://media1.tenor.com/m/4t1e6x5pQ8sAAAAC/hoshino-think-classes.gif" alt="Hoshino Think Classes" width="100%" style="border-radius: 15px;"/>
   <br><br>
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7768E&center=true&vCenter=true&width=600&lines=Hi+there,+I'm+Ikhsan;Computer+Science+Student+@+BINUS+Bandung;Web+Developer+%7C+Cyber+Security;Sensei+at+Schale+~" alt="Typing SVG" />
 </div>
