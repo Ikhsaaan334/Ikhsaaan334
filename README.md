@@ -18,7 +18,7 @@ I am an Informatics/Computer Science student exploring the depths of **Cyber Sec
 
 ---
 
-### 🛠️ Technical Arsenal
+### 🛠️ Skillset and Tools
 
 <table>
   <tr>
